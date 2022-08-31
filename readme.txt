@@ -1,5 +1,1 @@
-Hello World!
-
-It is a great day to learn git! 
-
-Testing my pushing abilities :)
+This is a new file for the remote repository! 
